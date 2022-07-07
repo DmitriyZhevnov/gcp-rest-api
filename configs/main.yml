@@ -1,0 +1,12 @@
+---
+
+is_debug: true
+listen:
+  bind_ip: 0.0.0.0
+  port: 8080
+storage:
+  mongodb:
+    host: mongodb
+    port: 27017
+    database: user-service
+    collection: users
