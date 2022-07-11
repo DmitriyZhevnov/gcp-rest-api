@@ -11,5 +11,6 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.12.0
+	google.golang.org/api v0.83.0
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
